@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results version="2">
+    <cppcheck version="2.14.0"/>
+    <errors>
+        <error id="syntaxError" severity="error" msg="File is missing: D:/dasanxia/ruanjiangongcheng/2111033/个人编程/11123/11123/11123.cpp" verbose="File is missing: D:/dasanxia/ruanjiangongcheng/2111033/个人编程/11123/11123/11123.cpp" sinceDate="2024/5/22">
+            <location file="11123\11123\11123.cpp" line="1"/>
+        </error>
+    </errors>
+</results>

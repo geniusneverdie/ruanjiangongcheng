@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results version="2">
+    <cppcheck version="2.14.0"/>
+    <errors>
+        <error id="missingIncludeSystem" severity="information" msg="Include file: &amp;lt;iostream&amp;gt; not found. Please note: Cppcheck does not need standard library headers to get proper results." verbose="Include file: &amp;lt;iostream&amp;gt; not found. Please note: Cppcheck does not need standard library headers to get proper results." sinceDate="2024/5/22">
+            <location file="11123\11123\11123.cpp" line="2"/>
+        </error>
+        <error id="missingIncludeSystem" severity="information" msg="Include file: &amp;lt;vector&amp;gt; not found. Please note: Cppcheck does not need standard library headers to get proper results." verbose="Include file: &amp;lt;vector&amp;gt; not found. Please note: Cppcheck does not need standard library headers to get proper results." sinceDate="2024/5/22">
+            <location file="11123\11123\11123.cpp" line="3"/>
+        </error>
+        <error id="missingIncludeSystem" severity="information" msg="Include file: &amp;lt;queue&amp;gt; not found. Please note: Cppcheck does not need standard library headers to get proper results." verbose="Include file: &amp;lt;queue&amp;gt; not found. Please note: Cppcheck does not need standard library headers to get proper results." sinceDate="2024/5/22">
+            <location file="11123\11123\11123.cpp" line="4"/>
+        </error>
+        <error id="missingIncludeSystem" severity="information" msg="Include file: &amp;lt;string&amp;gt; not found. Please note: Cppcheck does not need standard library headers to get proper results." verbose="Include file: &amp;lt;string&amp;gt; not found. Please note: Cppcheck does not need standard library headers to get proper results." sinceDate="2024/5/22">
+            <location file="11123\11123\11123.cpp" line="5"/>
+        </error>
+        <error id="missingIncludeSystem" severity="information" msg="Include file: &amp;lt;sstream&amp;gt; not found. Please note: Cppcheck does not need standard library headers to get proper results." verbose="Include file: &amp;lt;sstream&amp;gt; not found. Please note: Cppcheck does not need standard library headers to get proper results." sinceDate="2024/5/22">
+            <location file="11123\11123\11123.cpp" line="6"/>
+        </error>
+        <error id="normalCheckLevelMaxBranches" severity="information" msg="Limiting analysis of branches. Use --check-level=exhaustive to analyze all branches." verbose="Limiting analysis of branches. Use --check-level=exhaustive to analyze all branches." file0="11123/11123/11123.cpp" sinceDate="2024/5/22">
+            <location file="11123\11123\11123.cpp" line="0"/>
+        </error>
+        <error id="noExplicitConstructor" severity="style" msg="Struct &amp;#039;gate&amp;#039; has a constructor with 1 argument that is not explicit." verbose="Struct &amp;#039;gate&amp;#039; has a constructor with 1 argument that is not explicit. Such, so called &amp;quot;Converting constructors&amp;quot;, should in general be explicit for type safety reasons as that prevents unintended implicit conversions." cwe="398" file0="11123/11123/11123.cpp" sinceDate="2024/5/22">
+            <location file="11123\11123\11123.cpp" line="297"/>
+        </error>
+        <error id="constParameterReference" severity="style" msg="Parameter &amp;#039;vec&amp;#039; can be declared as reference to const" verbose="Parameter &amp;#039;vec&amp;#039; can be declared as reference to const" cwe="398" file0="11123/11123/11123.cpp" sinceDate="2024/5/22">
+            <location file="11123\11123\11123.cpp" line="333"/>
+        </error>
+        <error id="constParameterReference" severity="style" msg="Parameter &amp;#039;vec&amp;#039; can be declared as reference to const" verbose="Parameter &amp;#039;vec&amp;#039; can be declared as reference to const" cwe="398" file0="11123/11123/11123.cpp" sinceDate="2024/5/22">
+            <location file="11123\11123\11123.cpp" line="349"/>
+        </error>
+        <error id="constParameterReference" severity="style" msg="Parameter &amp;#039;vec&amp;#039; can be declared as reference to const" verbose="Parameter &amp;#039;vec&amp;#039; can be declared as reference to const" cwe="398" file0="11123/11123/11123.cpp" sinceDate="2024/5/22">
+            <location file="11123\11123\11123.cpp" line="365"/>
+        </error>
+        <error id="constParameterReference" severity="style" msg="Parameter &amp;#039;vec&amp;#039; can be declared as reference to const" verbose="Parameter &amp;#039;vec&amp;#039; can be declared as reference to const" cwe="398" file0="11123/11123/11123.cpp" sinceDate="2024/5/22">
+            <location file="11123\11123\11123.cpp" line="382"/>
+        </error>
+        <error id="constParameterReference" severity="style" msg="Parameter &amp;#039;vec&amp;#039; can be declared as reference to const" verbose="Parameter &amp;#039;vec&amp;#039; can be declared as reference to const" cwe="398" file0="11123/11123/11123.cpp" sinceDate="2024/5/22">
+            <location file="11123\11123\11123.cpp" line="398"/>
+        </error>
+        <error id="constParameterReference" severity="style" msg="Parameter &amp;#039;vec&amp;#039; can be declared as reference to const" verbose="Parameter &amp;#039;vec&amp;#039; can be declared as reference to const" cwe="398" file0="11123/11123/11123.cpp" sinceDate="2024/5/22">
+            <location file="11123\11123\11123.cpp" line="414"/>
+        </error>
+    </errors>
+</results>

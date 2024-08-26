@@ -1,0 +1,10 @@
+﻿  11123.cpp
+D:\dasanxia\ruanjiangongcheng\2111033\个人编程\11123\11123\11123.cpp(8,32): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\dasanxia\ruanjiangongcheng\2111033\个人编程\11123\11123\11123.cpp(342,20): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+D:\dasanxia\ruanjiangongcheng\2111033\个人编程\11123\11123\11123.cpp(358,20): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+D:\dasanxia\ruanjiangongcheng\2111033\个人编程\11123\11123\11123.cpp(374,20): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+D:\dasanxia\ruanjiangongcheng\2111033\个人编程\11123\11123\11123.cpp(391,20): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+D:\dasanxia\ruanjiangongcheng\2111033\个人编程\11123\11123\11123.cpp(407,20): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+D:\dasanxia\ruanjiangongcheng\2111033\个人编程\11123\11123\11123.cpp(423,20): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+D:\dasanxia\ruanjiangongcheng\2111033\个人编程\11123\11123\11123.cpp(468,20): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  11123.vcxproj -> D:\dasanxia\ruanjiangongcheng\2111033\个人编程\11123\x64\Debug\11123.exe

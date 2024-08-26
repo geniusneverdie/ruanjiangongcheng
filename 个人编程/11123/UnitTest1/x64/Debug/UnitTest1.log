@@ -1,0 +1,27 @@
+﻿  UnitTest1.cpp
+D:\dasanxia\ruanjiangongcheng\2111033\个人编程\11123\UnitTest1\11123.h(10,32): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“/UnitTest1.cpp”)
+  
+D:\dasanxia\ruanjiangongcheng\2111033\个人编程\11123\UnitTest1\11123.h(64,20): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  (编译源文件“/UnitTest1.cpp”)
+  
+D:\dasanxia\ruanjiangongcheng\2111033\个人编程\11123\UnitTest1\11123.h(80,20): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  (编译源文件“/UnitTest1.cpp”)
+  
+D:\dasanxia\ruanjiangongcheng\2111033\个人编程\11123\UnitTest1\11123.h(96,20): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  (编译源文件“/UnitTest1.cpp”)
+  
+D:\dasanxia\ruanjiangongcheng\2111033\个人编程\11123\UnitTest1\11123.h(113,20): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  (编译源文件“/UnitTest1.cpp”)
+  
+D:\dasanxia\ruanjiangongcheng\2111033\个人编程\11123\UnitTest1\11123.h(129,20): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  (编译源文件“/UnitTest1.cpp”)
+  
+D:\dasanxia\ruanjiangongcheng\2111033\个人编程\11123\UnitTest1\11123.h(145,20): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  (编译源文件“/UnitTest1.cpp”)
+  
+D:\dasanxia\ruanjiangongcheng\2111033\个人编程\11123\UnitTest1\11123.h(190,20): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  (编译源文件“/UnitTest1.cpp”)
+  
+    正在创建库 D:\dasanxia\ruanjiangongcheng\2111033\个人编程\11123\x64\Debug\UnitTest1.lib 和对象 D:\dasanxia\ruanjiangongcheng\2111033\个人编程\11123\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> D:\dasanxia\ruanjiangongcheng\2111033\个人编程\11123\x64\Debug\UnitTest1.dll
